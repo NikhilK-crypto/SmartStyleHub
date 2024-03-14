@@ -21,5 +21,5 @@ The first phase of the project included leveraging Llama2 as a chat model for th
 
 
 For more details check out the project report: 
-https://github.com/NikhilK-crypto/SmartStyleHub/blob/main/Project_Report.pdf  
+https://github.com/NikhilK-crypto/SmartStyleHub/blob/main/Report/Project_Report.pdf
 
