@@ -5,6 +5,15 @@
 The primary objective of this project is to create a user-friendly and efficient platform that simplifies the process of outfit selection by offering personalized style suggestions. Specifically, our system utilizes NLP techniques to interpret user queries, extracting relevant keywords such as occasions ("interview," "casual outing") and clothing preferences ("men," "formal"). Additionally, the system integrates methods to search through a vast database of images featuring clothing items from renowned brands like H&M. By combining these technologies, the system effectively bridges the gap between user queries and visual representations of recommended outfits, offering a seamless and interactive experience. The project focuses on implementing a chatbot-style interface capable of understanding natural language queries related to fashion and providing visually appealing recommendations. The system will prioritize user input, analyzing keywords to identify specific clothing needs and occasions. Moreover, the integration of Computer Vision algorithms will enable the system to retrieve relevant images from the database, showcasing attire from recognized brands such as H&M. However, it's important to note that the system's recommendations will be based solely on the information provided by the user and the available database content. Future iterations of the project may explore additional features, such as real-time image recognition or personalized styling tips based on user preferences and feedback.
 <p>
 
+## Requirements 
+<p align="justify">
+LM Studio - LM Studio is an easy-to-use desktop application designed for experimenting with local and open-source Large Language Models (LLMs). It provides a platform for users to work with LLMs in a local environment. We can download any chat model in LM Studio that is available on Hugging Faces. <p>
+
+link - https://lmstudio.ai/  <p>
+
+llama2 - Doewnload llama2 7B chat model in LM Studio and run it locally. You can create an API for the same to access this on python terminal. 
+<p>
+
 
 ## Methodology
 
