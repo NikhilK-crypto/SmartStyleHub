@@ -7,10 +7,10 @@ The primary objective of this project is to create a user-friendly and efficient
 
 ## Requirements 
 <p align="justify">
-**LM Studio** - LM Studio is an easy-to-use desktop application designed for experimenting with local and open-source Large Language Models (LLMs). It provides a platform for users to work with LLMs in a local environment. We can download any chat model in LM Studio that is available on Hugging Faces. <p>
+**LM Studio** - [LM Studio](https://lmstudio.ai/) is an easy-to-use desktop application designed for experimenting with local and open-source Large Language Models (LLMs). It provides a platform for users to work with LLMs in a local environment. We can download any chat model in LM Studio that is available on Hugging Faces. <p>
 
-link - https://lmstudio.ai/  <p>
-
+link -   <p>
+<p>
 **llama2** - The Llama 2 7B Chat model is a large language model designed for dialogue applications, part of the Llama 2 series developed by Meta. It utilizes a transformer architecture and is trained on diverse online data sources. Users can interact with the model for chat conversations by accessing it locally, understanding the data format for training, and managing conversation context effectively to ensure smooth interactions. Download the llama2 7B chat model in LM Studio and run it locally. Additionally, you can develop an API to enable access through the Python terminal. <p>
 LLama2 - https://llama.meta.com/llama2    <p>
 **How to create any LLM API using LM Studio app** - https://medium.com/@lucnguyen_61589/running-open-source-llm-models-locally-05a675376f1e
