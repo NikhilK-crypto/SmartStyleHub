@@ -26,6 +26,14 @@ The first phase of the project included leveraging Llama2 as a chat model for th
 </p>
 
 
+## Demo
+<p align='center'>
+
+![git_gif](https://github.com/NikhilK-crypto/SmartStyleHub/assets/58160895/0f4a3e61-82ec-46ac-b6d9-7ad74f90140d)
+
+</p>
+
+
 <p align='center'><img src="https://github.com/NikhilK-crypto/SmartStyleHub/assets/65084101/0afa6a23-699e-413d-abce-b0890dccd893" width=60% height=60%/></p>
 
 
