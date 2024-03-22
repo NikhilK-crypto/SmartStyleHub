@@ -30,9 +30,16 @@ The primary objective of this project is to create a user-friendly and efficient
 
 <p align='center'><img src="https://github.com/NikhilK-crypto/SmartStyleHub/assets/65084101/03085af8-db2a-4cbc-bbd5-3aa0e761a702" width=65% height=65%/></p>
 
+<br>
+
 <p align="justify">
-The first phase of the project included leveraging Llama2 as a chat model for the system. We employed text processing techniques and prompt engineering to extract fashion related tokens from the generated response. In the second phase, we focused on leveraging OpenAI's CLIP model to perform text-to-image search which involved passing tokens from chat model as input to get matching fashion article images. The CLIP model was finetuned on H&M dataset containing images and respective captions of for a variety of clothing products. After conducting exploratory data analysis, the data was preprocessed before passing it to the model. We conducted a comparative analysis of performance between the baseline and finetuned CLIP models. Our results showed that the finetuned model had a slightly better R-precision metric score than the base model. CLIP works by creating embeddings of text-image pairs where cosine similarity score is computed to find out closest matching pairs. For efficient storage and retrival of these embeddings we utilized Qdrant vector database. Finally, the Streamlit application for the system provides a user friendly interface where user can ask a fashion query and get relevant suggestions in form of images.
-</p>
+
+The first phase of the project included leveraging Llama2 as a chat model for the system. We employed text processing techniques and prompt engineering to extract fashion related tokens from the generated response. In the second phase, we focused on leveraging OpenAI's CLIP model to perform text-to-image search which involved passing tokens from chat model as input to get matching fashion article images. The CLIP model was finetuned on [H&M](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/data?select=articles.csv) containing images and respective captions of for a variety of clothing products. After conducting exploratory data analysis, the data was preprocessed before passing it to the model. We conducted a comparative analysis of performance between the baseline and finetuned CLIP models. Our results showed that the finetuned model had a slightly better R-precision metric score than the base model. CLIP works by creating embeddings of text-image pairs where cosine similarity score is computed to find out closest matching pairs. For efficient storage and retrival of these embeddings we utilized Qdrant vector database. Finally, the Streamlit application for the system provides a user friendly interface where user can ask a fashion query and get relevant suggestions in form of images.
+
+</p>    
+
+<br>
+<br>
 
 
 
